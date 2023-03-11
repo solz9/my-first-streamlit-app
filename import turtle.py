@@ -1,4 +1,4 @@
-% pip install streamlit
+
 
 st.title('GIẢI PHƯƠNG TRÌNH BẬC NHẤT')
 a = st.number_input('tham số a')
