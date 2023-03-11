@@ -11,4 +11,4 @@ if st.button('Gỉai'):
       st.write('vô nghiệm')
   if a != 0:
     st.write('Phương trình có nghiệm là', -b/a)
-!streamlit run app.py & npx localtunnel --port 8501
+
