@@ -1,6 +1,6 @@
 # my-first-streamlit-app
 import streamlit as st
-st.title('GIẢI PHƯƠNG TRÌNH BẬC NHẤT')'
+st.title('GIẢI PHƯƠNG TRÌNH BẬC NHẤT')
 st.write('Phương trình có dạng: ax + b = 0')
 a = st.number_input('Tham số a')
 b = st.number_input('Tham số b')
