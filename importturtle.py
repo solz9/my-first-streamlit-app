@@ -1,7 +1,7 @@
 # my-first-streamlit-app
 import streamlit as st
-st.title('GIẢI PHƯƠNG TRÌNH BẬC NHẤT', color = 'darkblue')
-st.write('Phương trình có dạng: ax + b = 0')
+st.title('GIẢI PHƯƠNG TRÌNH BẬC NHẤT')
+st.write('Phương trình có dạng: ax + b = 0', color = 'darkblue')
 a = st.number_input('Tham số a')
 b = st.number_input('Tham số b')
 if st.button('Giải'):
